@@ -1,4 +1,4 @@
-# 📊 Organizador de Declaração de Imposto de Renda
+# 📊 Organizador de Declaração de Imposto de Renda.
 
 Este projeto é uma **planilha de apoio** criada para facilitar a organização das informações necessárias para a declaração do Imposto de Renda.  
 O objetivo é reunir em um único arquivo todos os dados pessoais, bancários e comprovantes, evitando esquecimentos e tornando o processo mais simples.
